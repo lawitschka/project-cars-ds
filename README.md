@@ -19,5 +19,5 @@ docker run -d -v $PWD/config:/home/steam/server/config \
   -p 27015:27015/udp \
   -p 27016:27016/udp \
   --name=project-cars-ds \
-  lawitschka/project-cars-ds:1.0
+  lawitschka/project-cars-ds
 ```
